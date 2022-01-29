@@ -75,13 +75,6 @@ export default function App() {
   );
 }
 
-// <Image source={require('./assets/Icons/heart_light.png')} />
-
-// <View style={styles.middleOne}>
-// </View>
-//
-// <View style={styles.middleTwo}>
-// </View>
 
 const styles = StyleSheet.create({
   container: {
